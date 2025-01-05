@@ -1,0 +1,8 @@
+ERC report (5. 1. 2025 19:49:34, Encoding UTF8)
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error (excluded)
+    @(105,4100 mm, 85,0900 mm): Symbol U1 Pin 18 [GND, Power input, Line]
+
+ ** ERC messages: 1  Errors 1  Warnings 0
